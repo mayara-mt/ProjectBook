@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using ProjectBook.Model;
-using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
